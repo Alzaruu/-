@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tenru\\source\\repos\\ОАИП C#\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
+      "projectUniqueName": "C:\\Users\\Tenru\\Desktop\\C#\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
       "projectName": "Калькулятор",
-      "projectPath": "C:\\Users\\Tenru\\source\\repos\\ОАИП C#\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
+      "projectPath": "C:\\Users\\Tenru\\Desktop\\C#\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
       "packagesPath": "C:\\Users\\Tenru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tenru\\source\\repos\\ОАИП C#\\Калькулятор\\Калькулятор\\obj\\",
+      "outputPath": "C:\\Users\\Tenru\\Desktop\\C#\\Калькулятор\\Калькулятор\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tenru\\AppData\\Roaming\\NuGet\\NuGet.Config",
